@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test6</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_another">Another</string>
+    <string name="settings">action_settings</string>
+    <string name="another">button_Another</string>
+    <string name="textview">Hello World!</string>
+</resources>
